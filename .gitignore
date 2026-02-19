@@ -1,3 +1,6 @@
+#Scripts
+venv/
+
 # App
 node_modules/
 juiceshop.sqlite
